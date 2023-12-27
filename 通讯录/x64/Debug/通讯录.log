@@ -1,0 +1,4 @@
+﻿  contaxt.c
+D:\c++\练习\通讯录\通讯录\contaxt.c(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\c++\练习\通讯录\通讯录\contaxt.c(223,11): warning C4098: “SzveContact”:“void”函数返回值
+  通讯录.vcxproj -> D:\c++\练习\通讯录\x64\Debug\通讯录.exe
